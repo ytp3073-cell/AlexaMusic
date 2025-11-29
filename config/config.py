@@ -18,10 +18,10 @@ from pyrogram import filters
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", ""))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("32581891", ""))
+API_HASH = getenv("86d15530bb76890fbed3453d820e94f5")
 
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("8577640462:AAF47vgRWAJhp7EX86XJgycSYIvpePBzN4s")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
